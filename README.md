@@ -1,4 +1,4 @@
-# Evgeniy | Python Backend Developer 👨‍💻
+# Python Backend Developer 👨‍💻
 
 * 🧠  I’m a Python backend-developer
 * 🌍  I'm based in Russia, Chelyabinsk
