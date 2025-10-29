@@ -10,9 +10,3 @@
 
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,git,postman,selenium&theme=dark)](https://skillicons.dev)
-
-#### Additional
-- 🌐 Microservices Architecture
-- 🤖 Automation with n8n and AI
-- ✅ Testing (Pytest)
-- 📊 Monitoring (OpenTelemetry, Prometheus, Grafana)
